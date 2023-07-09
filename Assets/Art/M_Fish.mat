@@ -73,9 +73,9 @@ Material:
     - Vector1_563657663578417784680d1ac6351a92: 0.8
     - Vector1_5f54eca9048a45e18e6dd19e70311475: 0.2
     - _EnableExternalAlpha: 0
-    - _Fixed_Percent: 0.69
-    - _Speed: 2.86
-    - _moveRange: 0.01
+    - _Fixed_Percent: 0.1
+    - _Speed: 3.01
+    - _moveRange: 3
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
